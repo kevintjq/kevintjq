@@ -3,7 +3,7 @@
 <p align="center">
   🎓 A drone-obsessed university student<br>
   🚁 PX4 • APM • Betaflight • ROS2 • MAVROS<br>
-  💻 C++ • Python • Git • OpenCV • SLAM
+  💻 C++ • Python • Git  • SLAM
 </p>
 
 ---
@@ -59,8 +59,8 @@
 ## 📫 Reach Me
 
 <p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/你的用户名"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:tjq1994264536@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/kevintjq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -68,15 +68,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical" alt="Kevin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevintjq&show_icons=true&theme=radical" alt="Kevin's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintjq&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevintjq&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
