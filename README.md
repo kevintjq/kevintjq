@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 A drone‑obsessed university student<br>
-  🚁 PX4 • APM • Betaflight • ROS2 • MAVROS<br>
-  💻 C++ • Python • Git • SLAM
+  🚁 PX4 • APM • Betaflight • ROS2 • MAVROS<br>
+  💻 C++ • Python • Git • SLAM
 </p>
 
 ---
@@ -28,16 +28,16 @@
 
   <br/>
 
-  <!-- Drone Systems -->
+  <!-- Drone Systems with App Icons -->
+  <a href="https://qgroundcontrol.com">
+    <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/qgcimages/qgroundcontrol.png" width="60" alt="QGroundControl"/>
+  </a>
+  <a href="https://expresslrs.org">
+    <img src="https://expresslrs.org/assets/img/expresslrs-logo-white.svg" width="60" alt="ExpressLRS"/>
+  </a>
   <img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white" alt="PX4"/>
   <img src="https://img.shields.io/badge/ArduPilot-008000?style=for-the-badge&logo=ardupilot&logoColor=white" alt="ArduPilot"/>
   <img src="https://img.shields.io/badge/Betaflight-FECA1B?style=for-the-badge&logo=betaflight&logoColor=black" alt="Betaflight"/>
-  <a href="https://qgroundcontrol.com">
-    <img src="https://img.shields.io/badge/-QGroundControl-3949AB?style=for-the-badge&logo=qgroundcontrol&logoColor=white" alt="QGroundControl"/>
-  </a>
-  <a href="https://expresslrs.org">
-    <img src="https://img.shields.io/badge/-ExpressLRS-00BFFF?style=for-the-badge&logo=expresslrs&logoColor=white" alt="ExpressLRS"/>
-  </a>
 
   <br/>
 
@@ -68,4 +68,3 @@
 </p>
 
 ---
-
