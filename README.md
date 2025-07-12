@@ -14,7 +14,7 @@
 
 ## 💡 Fun Facts About Me
 
-- 🎮 **Built my  drone **
+- 🎮 **Built my drone**
 - 🏃‍♂️ **Can debug flight controller code while the drone is flying**
 - 🌍 **Speaks 3 languages:** English, Chinese, and Python 😄
 - 🎵 **Codes better with lofi hip-hop music**
