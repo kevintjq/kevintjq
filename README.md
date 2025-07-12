@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 A drone‑obsessed university student<br>
-  🚁 PX4 • Ardupilot • Betaflight <br>
-  💻 C • Python • Git • SLAM • Ros2
+  🚁 PX4 • APM • Betaflight <br>
+  💻 C • Python • Git • SLAM
 </p>
 
 ---
