@@ -65,20 +65,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevintjq&show_icons=true&theme=radical" alt="Kevin's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintjq&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevintjq&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center"><i>🛫 “Keep flying, keep learning.”</i></p>
