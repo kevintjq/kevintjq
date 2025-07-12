@@ -1,57 +1,57 @@
-# 👋 Hi there! I'm Kevin
+# 👋 Hi there ! I'm Kevin @kevintjq
 
-<p align="center">
-  🎓 A drone‑obsessed university student<br>
-  🚁 PX4 • APM • Betaflight <br>
-  💻 C • Python • Git • SLAM
-</p>
+🎯 I'm interested in **Drone Technology & Autonomous Systems**
+
+🚁 I'm currently learning **Advanced Flight Control Systems, Computer Vision and SLAM**.
+
+🛠️ I'm working on projects related to **UAV Swarm Intelligence and Autonomous Navigation**.
+
+💡 I'm looking to collaborate on **drone swarm projects and open-source flight controllers**.
+
+📫 **How to reach me :**  [Send an Email](mailto:tjq1994264536@icloud.com)
+
+---
+
+## 💡 Fun Facts About Me
+
+- 🎮 **Built my  drone **
+- 🏃‍♂️ **Can debug flight controller code while the drone is flying**
+- 🌍 **Speaks 3 languages:** English, Chinese, and Python 😄
+- 🎵 **Codes better with lofi hip-hop music**
+- ☕ **Fueled by coffee and curiosity**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,js,bash&perline=5" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,ubuntu,docker,cmake" alt="Programming"/>
 </p>
 
-### 🚁 Drone & Flight Control Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=drone&logoColor=white" alt="PX4"/>
-  <img src="https://img.shields.io/badge/ArduPilot-1B5E20?style=for-the-badge&logo=ardupilot&logoColor=white" alt="ArduPilot"/>
-  <img src="https://img.shields.io/badge/Betaflight-FF6B35?style=for-the-badge&logo=betaflight&logoColor=white" alt="Betaflight"/>
-  <img src="https://img.shields.io/badge/QGroundControl-4285F4?style=for-the-badge&logo=drone&logoColor=white" alt="QGroundControl"/>
+  <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,qt,arduino,matlab,vim,windows,raspberrypi" alt="Frameworks"/>
 </p>
 
-### 🤖 Robotics & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow&perline=3" alt="Robotics & AI"/>
-  <img src="https://img.shields.io/badge/SLAM-00C4CC?style=for-the-badge&logo=robot&logoColor=white" alt="SLAM"/>
+  <img src="https://img.shields.io/badge/PX4-000000?style=flat-square&logo=drone&logoColor=white" alt="PX4"/>
+  <img src="https://img.shields.io/badge/ArduPilot-1B5E20?style=flat-square&logo=ardupilot&logoColor=white" alt="ArduPilot"/>
+  <img src="https://img.shields.io/badge/Betaflight-FF6B35?style=flat-square&logo=betaflight&logoColor=white" alt="Betaflight"/>
+  <img src="https://img.shields.io/badge/QGroundControl-4285F4?style=flat-square&logo=drone&logoColor=white" alt="QGroundControl"/>
 </p>
 
-### 🖥️ Operating Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,git,github&perline=6" alt="OS & Tools"/>
+  <img src="https://img.shields.io/badge/SLAM-00C4CC?style=flat-square&logo=robot&logoColor=white" alt="SLAM"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/>
+  <img src="https://img.shields.io/badge/MAVROS-FF6B35?style=flat-square&logo=ros&logoColor=white" alt="MAVROS"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
 </p>
 
-### ⚡ Hardware & Embedded
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" alt="Hardware"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-  <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeMX"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson"/>
 </p>
-
-### 🎨 CAD & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidworks,blender&perline=2" alt="CAD & Design"/>
-</p>
-
-### 📊 Database & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,aws&perline=4" alt="Database & Cloud"/>
-</p>
-
-
 
 ---
 
@@ -64,27 +64,18 @@
   <a href="https://github.com/kevintjq">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://t.me/kevintjq">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://linkedin.com/in/kevintjq">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
 
-## 💡 Fun Facts
-
-- 🎮 Built my first drone 
-- 🏃‍♂️ Can debug flight controller code while the drone is flying
-- 🌍 Speaks 3 languages: English, Chinese, and Python 😄
-- 🎵 Codes better with lofi hip-hop music
-- ☕ Fueled by coffee and curiosity
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevintjq&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevintjq&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <i>🚁 "The sky is not the limit when there are drones to fly!" 🚁</i>
 </p>
 
+---
+
+⭐ **From [kevintjq](https://github.com/kevintjq)** - *Building the future of autonomous flight, one commit at a time*
